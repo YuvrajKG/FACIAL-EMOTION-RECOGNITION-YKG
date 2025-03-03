@@ -3,6 +3,7 @@
 An advanced Deep Learning model for real-time facial emotion detection, built using CNN & TensorFlow with a user-friendly GUI interface for seamless interaction.
 
 📌 This project was developed as part of my AI/ML Internship at ShadowFox Company, a multinational firm based in Bengaluru & Sydney.
+NOTE: The t1 is Main Application Code for Facial Recognition and t11 is ML traing Codes.
 
 📌 About the Project
 This AI-powered Facial Emotion Recognition System is designed to accurately classify human emotions using deep learning techniques. The model leverages Convolutional Neural Networks (CNN) trained on the FER 2013 dataset to detect facial expressions in images or video streams.
