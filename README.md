@@ -1,4 +1,5 @@
 🎭 FACIAL-EMOTION-RECOGNITION-YKG
+
 🚀 AI-Powered Facial Emotion Recognition System
 An advanced Deep Learning model for real-time facial emotion detection, built using CNN & TensorFlow with a user-friendly GUI interface for seamless interaction.
 
@@ -132,7 +133,7 @@ python gui_emotion_recognition.py
 🏢 Internship Company: ShadowFox Company (Bengaluru & Sydney)
 
 📞 Connect With Me!
-💼 
-📧 yuviig456@gmail.com 
+💼 Linkedin: https://www.linkedin.com/in/yuvraj-kumar-gond-105a552ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOrdSY4skRWmPuWyGNHoCIA%3D%3D
+📧 Email: yuviig456@gmail.com 
 
 📢 If you find this project helpful, consider giving it a ⭐ on GitHub! 🚀
